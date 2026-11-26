@@ -1,0 +1,10 @@
+{
+  "mdb.connectionSaving": true,
+  "mdb.defaultLimit": 50,
+  "mdb.presetConnections": [
+    {
+      "name": "Saraha Local MongoDB",
+      "connectionString": "mongodb://127.0.0.1:27017/saraha_db"
+    }
+  ]
+}
